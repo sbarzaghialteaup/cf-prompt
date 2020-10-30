@@ -1,6 +1,6 @@
 # Cloud Foundry Target in Shell Prompt
 
-My single line of code... not so much to say, just add the current Cloud Foundry organization and space to the shell prompt...
+My single line of code... not so much to say, it just add the current Cloud Foundry organization and space to the shell prompt...
 
 ## Example
 Org and space are in squared brakets:
