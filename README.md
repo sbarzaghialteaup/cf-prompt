@@ -3,6 +3,9 @@
 My single line of code, not so much to say, it just adds the current Cloud Foundry organization and space to the local shell prompt...
 In SAP Business Application Studio not necessary, the target is in bottom left, I know ;-)
 
+## Requisites
+- jq
+
 ## Example
 Org and space are in squared brakets:
 ```
